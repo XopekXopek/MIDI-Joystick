@@ -1,5 +1,5 @@
 The DIY MIDI Joystick project is a custom-built controller originaly designed for Elektron Monomachine (c).  
-This device can be used for controlling other hardware and software music instruments, effects, and adding unique motion-based input to any MIDI-compatible setup.
+Joystick can be used for controlling other hardware and software music instruments, effects, and adding unique motion-based input to any MIDI-compatible setup.
 
 Built around an Arduino microcontroller, the device supports multiple operational modes, channel selection, 
 button inputs, and precise analog readings from X/Y joystick axes. 
